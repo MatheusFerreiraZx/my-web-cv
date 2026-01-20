@@ -14,38 +14,6 @@ const Skills = () => {
       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg",
     },
     {
-      skill: "Dart",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg",
-    },
-    {
-      skill: "Flutter",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg",
-    },
-    {
-      skill: "TypeScript",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg",
-    },
-    {
-      skill: "React",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg ",
-    },
-    {
-      skill: "Next.js",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg",
-    },
-    {
-      skill: "Golang",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg",
-    },
-    {
-      skill: "Java",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg",
-    },
-    {
-      skill: "Spring",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg",
-    },
-    {
       skill: "Kibana",
       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original-wordmark.svg",
     },

@@ -10,7 +10,7 @@ const Header = () => {
             <div className="text-center md:text-left mb-4 md:mb-0">
               <h1 className="text-3xl font-bold mb-3">Matheus Ferreira</h1>
               <h2 className="text-xl text-text-secondary">
-                iOS Developer, tech entusiast and undergraduate degree in
+                Senior iOS Developer, tech entusiast and undergraduate degree in
                 Analysis and Development of Systems.{" "}
               </h2>
               <p className="text-sm mt-2">Recife, Pernambuco, Brazil</p>

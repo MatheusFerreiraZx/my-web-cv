@@ -58,6 +58,27 @@ const ProjectCard = ({
 const Projects = () => {
   const projects = [
     {
+      title: "Bradesco",
+      description:
+        "Banking app by Bradesco, one of the largest banks in Brazil. I was part of the iOS team, responsible for the development and maintenance of the app, using Swift.",
+      demoLink: "https://apps.apple.com/br/app/banco-bradesco/id336954985",
+      tags: ["Mobile", "iOS", "Frontend"],
+    },
+    {
+      title: "Itaú",
+      description:
+        "Banking app by Itaú, one of the largest banks in Brazil. I was part of the iOS team, responsible for the development and maintenance of the app, using Swift.",
+      demoLink: "https://apps.apple.com/br/app/banco-ita%C3%BA-conta-cart%C3%A3o-e/id474505665",
+      tags: ["Mobile", "iOS", "Frontend"],
+    },
+    {
+      title: "BB Investimentos",
+      description:
+        "Investiments app by banco do brasil, I was part of the iOS team, responsible for the development and maintenance of the app, using Swift and SwiftUI.",
+      demoLink: "https://apps.apple.com/br/app/investimentos-bb-taxa-zero/id1120718299",
+      tags: ["Mobile", "iOS", "Frontend"],
+    },
+    {
       title: "Petshop-System",
       description: (
         <p className="mt-2">
@@ -88,7 +109,7 @@ const Projects = () => {
               in Java and leveraging technologies like Redis, Kafka, and GoLang,
               to ensure seamless interoperability.
             </li>
-            <li>
+        =    <li>
               Proactively maintain the robustness and performance of iOS
               applications, leveraging observability tools and ensuring a fluid
               experience for both clients and employees.
