@@ -28,7 +28,7 @@ const About = () => {
         <div className="mb-6">
           <h3 className="text-xl font-semibold mb-2">IBM</h3>
           <h4 className="text-lg">iOS Developer</h4>
-          <p className="text-sm text-text-secondary">2024 - 2025</p>
+          <p className="text-sm text-text-secondary">2024 - Current</p>
           <p className="mt-2">
             <ul class="list-disc pl-5">
               <li>
